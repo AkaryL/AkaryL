@@ -27,10 +27,10 @@ Me considero una persona creativa y detallista; disfruto tanto de escribir códi
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original-wordmark.svg" alt="Vercel" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45" /> </p>
 📈 Estadísticas de GitHub
 
-Los siguientes gráficos muestran una vista de mis contribuciones y lenguajes más usados. Se generan automáticamente con GitHub Readme Stats
-.
+Los siguientes gráficos muestran una vista de mis contribuciones y lenguajes más usados. Se generan automáticamente con GitHub Readme Stats.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AkaryL&show_icons=true&theme=radical" alt="Mis estadísticas de GitHub" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=AkaryL&theme=radical" alt="streak" /> </p> 
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=AkaryL&theme=radical" alt="streak" /> </p> 
+
 ##  En qué me estoy enfocando
 - **Arquitectura
 - **UI/UX
