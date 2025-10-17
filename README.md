@@ -31,39 +31,33 @@ Los siguientes gráficos muestran una vista de mis contribuciones y lenguajes m�
 .
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AkaryL&show_icons=true&theme=radical" alt="Mis estadísticas de GitHub" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=AkaryL&theme=radical" alt="streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaryL&layout=compact&theme=radical" alt="Lenguajes más usados" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AkaryL&theme=algolia&no-frame=true&row=1&column=7" alt="trophies" /> </p> <p align="center"> <img src="https://metrics.lecoq.io/AkaryL?template=classic&isocalendar=1&languages=1&achievements=1&isocalendar.duration=full-year&languages.ignored=html,css&achievements.threshold=C&config.timezone=America/Mexico_City" alt="metrics" /> </p>
-🌱 Actualmente aprendiendo
+## 🌱 En qué me estoy enfocando
+- **Backend práctico:** NestJS (APIs modulares), Express (REST) y autenticación JWT.
+- **Arquitectura & patrones:** SOLID, DTOs, capas limpias y CI/CD básico.
+- **UI/UX aplicadas:** wireframes en Figma → componentes en React/Tailwind con accesibilidad.
+- **Operación & despliegue:** Vercel y Cloudflare Workers, variables de entorno y logs.
 
-Frameworks de backend como NestJS y Django
+## ✨ Proyectos que resumen lo que hago
+- **as_soluciones** — Sitio corporativo + mini-dashboard (React + Tailwind, API en Node/Express).  
+  _Rol:_ Frontend/UX · _Status:_ En producción.
+- **campanias-dashboard** — Métricas y filtros en tiempo real para campañas.  
+  _Stack:_ React + Context/API · _Focus:_ visualización clara.
+- **fleetwatch (front/back)** — Monitoreo de flotas (mapa, recorridos, filtros por día).  
+  _Stack:_ React + Node · _Nota:_ datos simulados mientras se integra el hardware.
 
-Patrones de diseño y arquitectura de software
+> Más repos acá → [Mis repos públicos](https://github.com/AkaryL?tab=repositories)
 
-Técnicas avanzadas de UI/UX y microinteracciones
+## 🤝 ¿Cómo colaboramos?
+- ¿Necesitas **un dashboard usable** o **un sitio rápido y bien diseñado**?  
+- ¿Quieres **cotización** o **auditoría UI/UX** breve de tu sitio?  
+Escríbeme y lo vemos:
 
-Automatización y DevOps con GitHub Actions
+- 📧 **Email:** akarylop@outlook.com  
+- 💼 **LinkedIn:** https://linkedin.com/in/akary
 
-✨ Proyectos destacados
+## 💡 Un poco más de mí
+Me obsesiona que la interfaz se sienta **ligera, clara y estable**. Si algo puede ser más simple, lo simplifico. Team **código limpio + buen diseño**.
 
-Algunos de los proyectos que me emocionan actualmente son:
-
-as_soluciones – Sitio web para una empresa de soluciones. Incluye un dashboard de administración en React y API backend.
-
-campanias-dashboard – Panel de control para campañas de marketing con visualizaciones y métricas en tiempo real.
-
-fletwatch-front/back – Aplicación para monitoreo de flotas, con frontend en React y backend en Node.js.
-
-Explora más en mis repositorios públicos
-.
-
-💬 Contacto
-
-Si tienes alguna propuesta, proyecto interesante o quieres charlar sobre tecnología y diseño, ¡no dudes en contactarme!
-
-📧 Email: akarylop@outlook.com
-
-💼 LinkedIn: linkedin.com/in/akary
-
-🎮 Fun Fact
-
-En mis ratos libres me gusta jugar videojuegos y experimentar con IA. ¡Siempre estoy explorando nuevas formas de combinar creatividad y tecnología!
-
-<p align="center"> <img src="https://profile-counter.glitch.me/AkaryL/count.svg" alt="visitas" /> </p> ```
+<p align="center">
+  <img src="https://profile-counter.glitch.me/AkaryL/count.svg" alt="visitas" />
+</p>
