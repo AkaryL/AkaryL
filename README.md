@@ -71,13 +71,12 @@ Explora más en mis [repositorios públicos](https://github.com/AkaryL?tab=repos
 
 Si tienes alguna propuesta, proyecto interesante o quieres charlar sobre tecnología y diseño, ¡no dudes en contactarme!
 
-- 📧 **Email:** akary@example.com *(sustituye con tu correo real)*
-- 💼 **LinkedIn:** [linkedin.com/in/akary](https://linkedin.com/in/akary) *(si aplicable)*
-- 🌐 **Portafolio:** [tu-portafolio.com](https://tu-portafolio.com) *(opcional)*
+- 📧 **Email:** akarylop@outlook.com
+- 💼 **LinkedIn:** [linkedin.com/in/akary](https://linkedin.com/in/akary) 
 
 ## 🎮 Fun Fact
 
-En mis ratos libres me gusta jugar videojuegos indie y experimentar con IA generativa para crear arte digital. ¡Siempre estoy explorando nuevas formas de combinar creatividad y tecnología!
+En mis ratos libres me gusta jugar videojuegos y experimentar con IA. ¡Siempre estoy explorando nuevas formas de combinar creatividad y tecnología!
 
 ---
 
