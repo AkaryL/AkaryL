@@ -25,7 +25,7 @@ intereses:
   - Diseño UI/UX con Figma y Tailwind CSS
   - Automatización de despliegues (Vercel, Cloudflare Workers)
   - Dominios, hosting y presupuestos web
-
+```
 
 Me considero una persona creativa y detallista; disfruto tanto de escribir código limpio como de pulir la experiencia de usuario. Siempre busco nuevas formas de aprender y crecer, y me encanta participar en proyectos que mezclan lo técnico con lo artístico.
 
