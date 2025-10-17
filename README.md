@@ -30,14 +30,13 @@ Me considero una persona creativa y detallista; disfruto tanto de escribir códi
 Los siguientes gráficos muestran una vista de mis contribuciones y lenguajes más usados. Se generan automáticamente con GitHub Readme Stats
 .
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AkaryL&show_icons=true&theme=radical" alt="Mis estadísticas de GitHub" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=AkaryL&theme=radical" alt="streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaryL&layout=compact&theme=radical" alt="Lenguajes más usados" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AkaryL&theme=algolia&no-frame=true&row=1&column=7" alt="trophies" /> </p> <p align="center"> <img src="https://metrics.lecoq.io/AkaryL?template=classic&isocalendar=1&languages=1&achievements=1&isocalendar.duration=full-year&languages.ignored=html,css&achievements.threshold=C&config.timezone=America/Mexico_City" alt="metrics" /> </p>
-## 🌱 En qué me estoy enfocando
-- **Backend práctico:** NestJS (APIs modulares), Express (REST) y autenticación JWT.
-- **Arquitectura & patrones:** SOLID, DTOs, capas limpias y CI/CD básico.
-- **UI/UX aplicadas:** wireframes en Figma → componentes en React/Tailwind con accesibilidad.
-- **Operación & despliegue:** Vercel y Cloudflare Workers, variables de entorno y logs.
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AkaryL&show_icons=true&theme=radical" alt="Mis estadísticas de GitHub" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=AkaryL&theme=radical" alt="streak" /> </p> 
+##  En qué me estoy enfocando
+- **Arquitectura
+- **UI/UX
+- **Operación & despliegue
 
-## ✨ Proyectos que resumen lo que hago
+##  Proyectos que resumen lo que hago
 - **as_soluciones** — Sitio corporativo + mini-dashboard (React + Tailwind, API en Node/Express).  
   _Rol:_ Frontend/UX · _Status:_ En producción.
 - **campanias-dashboard** — Métricas y filtros en tiempo real para campañas.  
@@ -47,7 +46,7 @@ Los siguientes gráficos muestran una vista de mis contribuciones y lenguajes m�
 
 > Más repos acá → [Mis repos públicos](https://github.com/AkaryL?tab=repositories)
 
-## 🤝 ¿Cómo colaboramos?
+## ¿Cómo colaboramos?
 - ¿Necesitas **un dashboard usable** o **un sitio rápido y bien diseñado**?  
 - ¿Quieres **cotización** o **auditoría UI/UX** breve de tu sitio?  
 Escríbeme y lo vemos:
@@ -58,6 +57,3 @@ Escríbeme y lo vemos:
 ## 💡 Un poco más de mí
 Me obsesiona que la interfaz se sienta **ligera, clara y estable**. Si algo puede ser más simple, lo simplifico. Team **código limpio + buen diseño**.
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/AkaryL/count.svg" alt="visitas" />
-</p>
