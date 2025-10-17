@@ -31,11 +31,6 @@ Los siguientes gráficos muestran una vista de mis contribuciones y lenguajes m�
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=AkaryL&theme=radical" alt="streak" /> </p> 
 
-##  En qué me estoy enfocando
-- **Arquitectura
-- **UI/UX
-- **Operación & despliegue
-
 ##  Proyectos que resumen lo que hago
 - **as_soluciones** — Sitio corporativo + mini-dashboard (React + Tailwind, API en Node/Express).  
   _Rol:_ Frontend/UX · _Status:_ En producción.
