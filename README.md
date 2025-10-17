@@ -42,8 +42,6 @@ Me considero una persona creativa y detallista; disfruto tanto de escribir códi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45" />
 </p>
 
-> **Consejo:** los blogs y artículos recomiendan usar iconos de herramientas y lenguajes para hacer el perfil más visual. También sugieren un encabezado único y una sección "About" personalizable【152138134346182†L111-L161】. Incluir iconos y una estructura tipo YAML aporta profesionalismo y personalidad【152138134346182†L113-L200】.
-
 ## 📈 Estadísticas de GitHub
 
 Los siguientes gráficos muestran una vista de mis contribuciones y lenguajes más usados. Se generan automáticamente con [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats). Puedes integrarlos fácilmente como recomiendan los tutoriales【152138134346182†L248-L265】.
