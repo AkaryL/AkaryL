@@ -44,11 +44,7 @@ Me considero una persona creativa y detallista; disfruto tanto de escribir códi
 
 ## 📈 Estadísticas de GitHub
 
-Los siguientes gráficos muestran una vista de mis contribuciones y lenguajes más usados. Se generan automáticamente con [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats). Puedes integrarlos fácilmente como recomiendan los tutoriales【152138134346182†L248-L265】.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkaryL&show_icons=true&theme=radical" alt="Mis estadísticas de GitHub" />
-</p>
+Los siguientes gráficos muestran una vista de mis contribuciones y lenguajes más usados. Se generan automáticamente con [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats). 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaryL&layout=compact&theme=radical" alt="Lenguajes más usados" />
