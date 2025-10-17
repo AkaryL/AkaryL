@@ -6,12 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?text=%C2%A1Bienvenid@%20a%20mi%20GitHub!&animation=fadeIn&type=waving&color=gradient&height=180" alt="header" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=900&lines=React.js+%2B+UI%2FUX+%7C+Frontend+Lover;Aprendiendo+Backend+(NestJS%2FExpress);Deploy+en+Vercel+%2B+Cloudflare+Workers;Dise%C3%B1o+bonito+%2B+funcional+%F0%9F%92%A5" alt="Typing" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer" />
-
 ## Sobre mí
 
 ```yaml
@@ -25,13 +19,12 @@ intereses:
   - Diseño UI/UX con Figma y Tailwind CSS
   - Automatización de despliegues (Vercel, Cloudflare Workers)
   - Dominios, hosting y presupuestos web
-```
 
+```
 Me considero una persona creativa y detallista; disfruto tanto de escribir código limpio como de pulir la experiencia de usuario. Siempre busco nuevas formas de aprender y crecer, y me encanta participar en proyectos que mezclan lo técnico con lo artístico.
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer" />
 🚀 Tecnologías y herramientas
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original-wordmark.svg" alt="Vercel" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2400&pause=1100&color=14B8A6&center=true&vCenter=true&width=800&lines=React+%7C+TypeScript+%7C+Tailwind+%7C+Node%2FExpress+%7C+MySQL+%7C+Figma+%7C+Vercel+%7C+Cloudflare+Workers" /> </p> <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer" />
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original-wordmark.svg" alt="Vercel" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45" /> </p>
 📈 Estadísticas de GitHub
 
 Los siguientes gráficos muestran una vista de mis contribuciones y lenguajes más usados. Se generan automáticamente con GitHub Readme Stats
@@ -61,8 +54,6 @@ fletwatch-front/back – Aplicación para monitoreo de flotas, con frontend en R
 Explora más en mis repositorios públicos
 .
 
-🐍 Snake de contribuciones
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkaryL/AkaryL/output/snake-dark.svg"> <img alt="snake" src="https://raw.githubusercontent.com/AkaryL/AkaryL/output/snake.svg" /> </picture> <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=header" />
 💬 Contacto
 
 Si tienes alguna propuesta, proyecto interesante o quieres charlar sobre tecnología y diseño, ¡no dudes en contactarme!
